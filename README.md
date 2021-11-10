@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rrpelgrim
-- 👀 I’m interested in data science/communication, machine learning
-- 🌱 I’m currently learning AWS distributed processing and Arabic NLP
-- 📫 How to reach me: richardpelgrim [at] gmail.com
+- 👀 I’m interested in data science, data storytelling, machine learning
+- 📫 How to reach me: richardpelgrim [at] gmail.com, Twitter: @richardpelgrim
 
 <!---
 rrpelgrim/rrpelgrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
